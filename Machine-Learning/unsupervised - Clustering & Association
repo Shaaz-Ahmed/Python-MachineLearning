@@ -1,0 +1,21 @@
+Clustering:
+Clustering is a method of grouping the data based on similarity it group the data based on similarity
+
+Clustering is a method of grouping the data based on similarties remain into one group and has less or no similarities with the another group
+
+
+
+* Association:
+Is used for finding the relationship between the variable in large database
+It determin the set of item that occur togetrher
+
+Association rules make marketing strategy more effective
+such as people who buy X item suppose to buy Y item 
+
+* Algorithm
+1. K-Means clustering
+2. KNN (nearest neighbour)
+3. Hierarchical Clustering
+4. Apriori algorithm
+5. Principle compoennt analysis (PCA)
+6. Neural networks
