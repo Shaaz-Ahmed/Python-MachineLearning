@@ -12,3 +12,15 @@ Machine learning is catgories in 3 types
 1. Supervised learning
 2. Unsupervised Learning
 3. Reinforcement Learning
+
+
+
+* Machine Learning Lifecycle
+
+1. Gathering Data
+2. Data pre-pration - (Exploration & Data preprocessing)
+3. Data wrangling
+4. Data Analysis
+5. Train model
+6. Test model
+7. Deployment
