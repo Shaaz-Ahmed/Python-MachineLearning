@@ -1,0 +1,16 @@
+Dimensionaltiy reduction :
+It is a process of reducing the number of input variable (feature) in a dataset while keeping as much relevant information as possible
+
+It helps make model faster ,less complex, and ofthen more accurate
+
+Image we have a dataset with lot of column (feature) but from that all are not useful for the prediction or recommendation so we will remove some 
+column from it . so this is called the dimensionality reduction
+
+Dimensionality reduction is a technique aim to keep any most import column and remove one's that dont contribute for prediction
+
+
+* There are two ways for the dimensionality reduction
+1. Feature selection: 
+Feature selection means we will only choose the column which is more important which is more useful for prediction
+
+2. Feature extraction: 
