@@ -1,0 +1,23 @@
+Supervised learning is aplicable when the sample data that is input as well as output data is given 
+Data with a correct label
+In supervised learning first the model is trained and then test on the test dataset 
+
+Example: we have a dataset tagged as "CAT" a machine learning algorithm trained with this dog images so it can easily distuinguish wheather an image is dog or not.
+
+
+Understand in depth:
+
+suppose we have a dataset of different types of shapes which includes square, rectangle, trainagle
+First step is we need to train a model 
+- if given shape has 4 sides and all sides are equal then it is labelled as Square
+- if given shapes has 3 sides then it is labelled as triangle
+
+* steps involved in supervised Learning
+
+1. Determine the type of dataset
+2. Gather the data
+3. Split the data into Training, testing and validation
+4. Feature selection ( which should have enough knowledge so that model can predict acurately)
+5. Determine the suitable algorithm 
+6. Execute algorithm 
+7. Evaluate accuracy.
