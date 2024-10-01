@@ -1,0 +1,25 @@
+Supervised Learning
+There are two types comes under supervised learning 
+1. Regression 
+2. Classification
+
+# Regression:
+Regression algorithm are used when there is a relationship between two variables
+Regression is used for prediction of continious variable such as weather forcecast , market trends, etc
+
+Algorithm comes under Regression:
+1. Linear regression
+2. Regression Tree
+3. Non-Linear Regression
+4. Bayesian Linear Regression
+5. Polynomial Regression
+
+
+# Classification:
+Classification is used when you have the output variable is cateogrical which mean there are two classes such as YES,NO or TRUE FALSE.
+
+Algorithm comes under classification
+1. Random Forest
+2. Decision Tree
+3. Logistic Regression
+4. Support Vector Machine
