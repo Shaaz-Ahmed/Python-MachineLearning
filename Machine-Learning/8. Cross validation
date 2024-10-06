@@ -1,0 +1,22 @@
+*Cross validation:
+
+Cross validation is a technique in machine learning used to test how well a model will perform on new or unseen data.
+
+It helps us to prevent overfitting, which is when a model works well on training data but perform poorly on real real world data
+
+*Types of Cross-Validation:
+1. k-Fold Cross-Validation: The most common method. Data is split into k folds, and the model is trained and tested k times.
+
+2. Leave-One-Out Cross-Validation (LOO): 
+
+3. Stratified k-Fold Cross-Validation: 
+
+4. Time Series Cross-Validation
+
+
+*Example of 5-Fold Cross-Validation:
+Let’s say you have a dataset of 100 data points. In 5-fold cross-validation:
+
+Split the data into 5 equal parts (20 data points in each).
+Train on 4 parts and test on the remaining 1 part. Do this 5 times, each time using a different part as the test set.
+After 5 rounds, you average the performance metrics.
