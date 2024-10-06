@@ -1,0 +1,22 @@
+Confusion matrix is used to evalute the performance of a classification
+
+it's having 4 condition:
+1. True Positive (TP): Correctly predicted positive outcomes (model said "yes" and it was actually "yes").
+
+2. True Negative (TN): Correctly predicted negative outcomes (model said "no" and it was actually "no").
+
+3. False Positive (FP): Incorrectly predicted as positive (model said "yes," but it was actually "no"). Also called a "Type I error."
+
+4. False Negative (FN): Incorrectly predicted as negative (model said "no," but it was actually "yes"). Also called a "Type II error."
+
+Need for Confusion Matrix in Machine learning
+It evaluates the performance of the classification models, when they make predictions on test data, and tells how good our classification model is.
+It not only tells the error made by the classifiers but also the type of errors such as it is either type-I or type-II error.
+With the help of the confusion matrix, we can calculate the different parameters for the model, such as accuracy, precision, etc
+
+Examples:
+Suppose we are trying to create a model that can predict the result for the disease that is either a person has that disease or not. So, the confusion matrix for this is given as
+The table is given for the two-class classifier, which has two predictions "Yes" and "NO." Here, Yes defines that patient has the disease, and No defines that patient does not has that disease.
+The classifier has made a total of 100 predictions. Out of 100 predictions, 89 are true predictions, and 11 are incorrect predictions.
+The model has given prediction "yes" for 32 times, and "No" for 68 times. Whereas the actual "Yes" was 27, and actual "No" was 73 times.
+
