@@ -1,0 +1,23 @@
+In the real world, the dataset present will never be clean and perfect. It means each dataset contains impurities, 
+noisy data, outliers, missing data, or imbalanced data. Due to these impurities, different problems occur that 
+affect the accuracy and the performance of the model. One of such problems is Overfitting in Machine Learning.
+Overfitting is a problem that a model can exhibit.
+
+Noise : Missing value , unwanted data, etc
+Bias: Gap between predicted and actual one
+Variance : How scaterred data it is
+
+Underfitting happens when the model is too simple. It doesn't learn enough from the data and misses important patterns. 
+It performs poorly on both the training data and new data. It's like trying to solve a complex problem with only basic tools.
+
+Overfitting happens when the model is too complex. It learns not only the important patterns but
+also the noise or unnecessary details in the training data. It performs very well on the training 
+data but struggles with new data because it's overly focused on details that don't matter. 
+It's like memorizing every question from a practice test instead of understanding the concepts.
+
+Underfitting: Model is too simple → Poor on all data.
+Overfitting: Model is too complex → Great on training data, poor on new data.
+
+
+
+
